@@ -56,7 +56,6 @@ ___
 ___
 
 ### 🧑‍💻 CodeBattle Landing Page
-
 This project is a professional and fully responsive landing page created for the 5th Online Programming Contest of Bojnord University, organized by the ACM Student Chapter.
 ---
 
